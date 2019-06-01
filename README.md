@@ -1,6 +1,6 @@
-# H1 Drive thru automation
+# Drive thru automation
 
-## H2 Set up
+## Set up
 **Note:** you must be running java 1.8.xxx. You can check you version by running.
 
 ```java
