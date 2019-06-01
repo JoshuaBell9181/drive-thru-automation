@@ -12,7 +12,7 @@ java -version
 
 **Install:** google cloud suite from the eclipse market-place
 
-# H2 Contributing
+## Contributing
 
 Fork the repository and create merge request
 
